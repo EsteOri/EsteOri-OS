@@ -3,7 +3,6 @@
 # EsteOri-OS
 
 [![Download Pack](https://img.shields.io/badge/Download-EsteOri--OS_Pack-blue?style=for-the-badge&logo=windows)](https://mega.nz/folder/KkZEiTAa#I1LJgvmhXKjUFbmNK7cjfw)
-[![Version](https://img.shields.io/badge/Version-Ultimate_Edition-green?style=for-the-badge)](https://github.com/YOUR_USERNAME/EsteOri-OS)
 
 </div>
 
@@ -41,4 +40,3 @@ Once finished, open your USB drive in File Explorer. It should look **exactly** 
 📄 bootmgr
 📄 bootmgr.efi
 ⚙️ setup.exe
-📝 EsteOri-OS.reg
