@@ -2,10 +2,9 @@
 
 # EsteOri-OS
 
-[![Download Pack](https://img.shields.io/badge/Download-EsteOri--OS_Pack-blue?style=for-the-badge&logo=windows)](https://mega.nz/folder/KkZEiTAa#I1LJgvmhXKjUFbmNK7cjfw)
+[![Download EsteOri-OS](https://img.shields.io/badge/Download-EsteOri--OS-blue?style=for-the-badge&logo=windows&logoColor=white)](https://mega.nz/folder/KkZEiTAa#I1LJgvmhXKjUFbmNK7cjfw)
 
 </div>
-
 ---
 
 ## 📥 Installation Guide
