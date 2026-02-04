@@ -2,7 +2,7 @@
 
 # EsteOri-OS
 
-[![Download EsteOri-OS](https://img.shields.io/badge/Download_EsteOri--OS-ffffff?style=for-the-badge&logo=windows&logoColor=black)](https://mega.nz/folder/f152EQoI#FwXXqD6wlrD5GQhSoq5LjA)
+[![Download EsteOri-OS](https://img.shields.io/badge/Download_EsteOri--OS-ffffff?style=for-the-badge&logo=windows&logoColor=black)](https://mega.nz/folder/e9Z3SYrA#j49ZNN7YxF1761HziQUExA)
 
 </div>
 
