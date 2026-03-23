@@ -2,7 +2,7 @@
 
 # EsteOri-OS
 
-[![Download EsteOri-OS](https://img.shields.io/badge/Download_EsteOri--OS-ffffff?style=for-the-badge&logo=windows&logoColor=black)](https://drive.google.com/drive/folders/1e5_jMZqk86_lRBIAxcC6IUtV6waiGiDI?usp=drive_link)
+[![Download The Playbook](https://img.shields.io/badge/Download_EsteOri--OS-ffffff?style=for-the-badge&logo=windows&logoColor=black)](https://drive.google.com/drive/folders/1e5_jMZqk86_lRBIAxcC6IUtV6waiGiDI?usp=drive_link)
 
 </div>
 
